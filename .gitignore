@@ -1,0 +1,15 @@
+data/raw/
+data/processed/
+*.csv
+*.json
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mp4
+*.mov
+.env
+.ipynb_checkpoints/
+__pycache__/
+.venv/
