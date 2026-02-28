@@ -36,3 +36,8 @@ The dataset consists of short form social media in captions with text, emojis, p
 - Transforming text into structured format makes it clearer 
 
 
+## How to Run
+1. Install everything listed in `requirements.txt`.
+2. Open the notebook in the `notebooks` folder.
+3. Run all cells for the analysis and visualizations
+
